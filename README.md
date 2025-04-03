@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Beltus237 i am a developer and software engineer.
-- 👀 I’m interested in software developement using popular frameworks like bootstrap, python,  python django and postgreSQL.
+- 👋 Hi, I’m Beltus Edube. i am a developer and software engineer.
+- 👀 I’m interested in software developement using popular languages and frameworks like Flutter, React,  bootstrap, python,  python django and postgreSQL.
 - 🌱 I’m currently learning python for data analysis and datascience
 - 💞️ I’m looking to collaborate on open source projects from any of my specified developement languages
 - 📫 How to reach me : you can always reach me here on github
